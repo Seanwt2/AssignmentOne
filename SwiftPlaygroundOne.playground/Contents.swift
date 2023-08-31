@@ -20,3 +20,22 @@ var mySixthVariable = "Five, six, Nike kicks."
 var mySeventhVariable = myFourthVariable + myFifthVariable + myFifthVariable
 
 print(mySeventhVariable)
+
+//A3.3
+
+var appState = false
+print(appState)
+
+//A3.4
+
+var number1 = 2
+var number2 = 1
+
+var comparison = number1 < number2
+
+//Part 7 On.Your.Own.1;
+
+
+//Part 8 On.Your.Own.2;
+
+
