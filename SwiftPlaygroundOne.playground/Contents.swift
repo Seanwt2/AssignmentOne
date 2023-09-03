@@ -33,8 +33,13 @@ var number2 = 1
 
 var comparison = number1 < number2
 
-//Part 7 On.Your.Own.1;
+//Part 7 On.Your.Own.1; Completed
+var newOne = 78
+var newTwo = 83
 
+var newThree = newOne == newTwo
+
+print(newThree)
 
 //Part 8 On.Your.Own.2;
 
