@@ -41,6 +41,6 @@ var newThree = newOne == newTwo
 
 print(newThree)
 
-//Part 8 On.Your.Own.2;
+//Part 8 On.Your.Own.2; Completed
 
 
